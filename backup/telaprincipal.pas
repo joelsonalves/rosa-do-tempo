@@ -13,7 +13,6 @@ type
 
   TForm1 = class(TForm)
     ButtonSobre: TButton;
-    ButtonTestar: TButton;
     ButtonEncerrar: TButton;
     CheckBoxDomingo: TCheckBox;
     CheckBoxSegundaFeira: TCheckBox;
@@ -24,7 +23,6 @@ type
     CheckBoxSabado: TCheckBox;
     EditArquivoHorarioProgramado: TEdit;
     EditPastaMusical: TEdit;
-    LabelNomeApp: TLabel;
     LabelTextoProximoToque: TLabel;
     LabelHorarioProximoToque: TLabel;
     LabelHorarioProgramado: TLabel;
@@ -57,6 +55,7 @@ end;
 
 procedure TForm1.EditArquivoHorarioProgramadoClick(Sender: TObject);
 begin
+   OpenDialog1.Filter := '.txt|*.txt';
    if (OpenDialog1.Execute) then
   begin
      EditArquivoHorarioProgramado.Text := ExtractFileName(OpenDialog1.FileName);
