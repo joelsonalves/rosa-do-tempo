@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="RosaDosTempos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="telaprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="TelaPrincipal"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="55"/>
+        <CursorPos X="6" Y="59"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="telaprincipal.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="51" Column="9" TopLine="36"/>
+      </Position2>
+      <Position3>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="52" Column="9" TopLine="37"/>
+      </Position3>
+      <Position4>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="54" Column="9" TopLine="39"/>
+      </Position4>
+      <Position5>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="62" Column="6" TopLine="45"/>
+      </Position5>
+      <Position6>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="61" Column="30" TopLine="47"/>
+      </Position6>
+      <Position7>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="59" Column="22" TopLine="47"/>
+      </Position7>
+      <Position8>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="63" Column="16" TopLine="48"/>
+      </Position8>
+      <Position9>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="62" Column="69" TopLine="53"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
